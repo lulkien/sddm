@@ -23,5 +23,5 @@ Image {
         width: logo.scaledWidth
         height: logo.scaledHeight
     }
-    source: "../assets/hyprland.png"
+    source: config.Logo
 }
